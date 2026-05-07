@@ -1,18 +1,16 @@
 # 🔷 Jeu de Formes Géométriques
 
-**Étudiante :** Hanane ELFADIL — IRISI 2  
-**Enseignant :** Outhman BOURKOUKOU  
-**Établissement :** Faculté des Sciences et Techniques — Université Cadi Ayyad, Marrakech
+
 
 ---
 
-## 📌 Description
+##  Description
 
 Application web interactive permettant de générer et manipuler des formes géométriques en **ASCII art**. L'utilisateur peut choisir une forme, configurer ses dimensions, personnaliser le motif de dessin, puis faire pivoter la forme dans quatre directions avec un codage couleur.
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - Choix parmi **3 formes géométriques** : Triangle, Rectangle, Cercle
 - Configuration des **dimensions** spécifiques à chaque forme
@@ -23,7 +21,7 @@ Application web interactive permettant de générer et manipuler des formes géo
 
 ---
 
-## 🗂️ Structure du Projet
+##  Structure du Projet
 
 ```
 jeu-formes-geometriques/
@@ -43,36 +41,12 @@ jeu-formes-geometriques/
 | CSS3 | Design, mise en page et animations |
 | JavaScript | Logique métier et interactivité |
 
----
-
-## 🚀 Lancement
-
-Aucune installation requise. Il suffit d'ouvrir le fichier `index.html` dans un navigateur web moderne.
-
-```bash
-# Cloner le dépôt (si applicable)
-git clone <url-du-depot>
-
-# Ouvrir dans le navigateur
-open index.html
-```
 
 ---
 
-## 🎮 Utilisation
 
-1. **Choisir une forme** en cliquant sur l'un des trois boutons (Triangle, Rectangle, Cercle)
-2. **Configurer les paramètres** :
-   - Triangle → Base + Motif
-   - Rectangle → Largeur + Longueur + Motif
-   - Cercle → Rayon + Motif
-3. Cliquer sur **Créer** pour générer la forme
-4. Utiliser les boutons directionnels pour **faire pivoter** la forme
-5. Cliquer sur **Nouvelle Forme** pour réinitialiser
 
----
-
-## 📐 Logique de Génération
+##  Logique de Génération
 
 ### Triangle
 Génère un triangle isocèle en ASCII, ligne par ligne, avec des espaces pour centrer.
@@ -85,12 +59,12 @@ Utilise la distance euclidienne depuis le centre pour déterminer si chaque case
 
 ---
 
-## 🎨 Aperçu
+##  Aperçu
 
 L'interface présente un fond dégradé rose-pêche, des boutons arrondis avec effets de survol, et une zone d'affichage en police monospace pour un rendu ASCII fidèle.
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Projet académique — Faculté des Sciences et Techniques de Marrakech, 2024/2025.
