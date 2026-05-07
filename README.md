@@ -21,19 +21,11 @@ Application web interactive permettant de générer et manipuler des formes géo
 
 ---
 
-##  Structure du Projet
 
-```
-jeu-formes-geometriques/
-├── index.html      # Structure HTML de l'application
-├── style.css       # Feuille de styles CSS (design & animations)
-├── script.js       # Logique JavaScript (génération & rotation)
-└── README.md       # Documentation du projet
-```
 
----
 
-## 🛠️ Technologies Utilisées
+
+##  Technologies Utilisées
 
 | Technologie | Rôle |
 |-------------|------|
